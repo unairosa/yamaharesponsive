@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Tienda de Motos Yamaha</title>
+        <link>http://www.tiendayamahayamaha.com</link>
+        <description>Últimas novedades y contenido de la Tienda de Motos Yamaha</description>
+        <language>es</language>
+
+        <item>
+            <title>Inicio</title>
+            <link>http://www.tiendayamahayamaha.com#inicio</link>
+            <description>Bienvenidos a la tienda de motos Yamaha, descubre nuestros modelos.</description>
+        </item>
+
+        <item>
+            <title>Modelos Disponibles</title>
+            <link>http://www.tiendayamahayamaha.com#motos</link>
+            <description>Consulta nuestra gama de motocicletas Yamaha.</description>
+        </item>
+
+        <item>
+            <title>Video Yamaha R7</title>
+            <link>http://www.tiendayamahayamaha.com#video</link>
+            <description>Observa el video promocional de la Yamaha R7.</description>
+        </item>
+
+        <item>
+            <title>Comparativa de Modelos</title>
+            <link>http://www.tiendayamahayamaha.com#comparativa</link>
+            <description>Comparación de especificaciones entre los modelos Yamaha R1, MT-09 y MT-07.</description>
+        </item>
+
+        <item>
+            <title>Protecciones recomendadas</title>
+            <link>http://www.tiendayamahayamaha.com#protecciones</link>
+            <description>Descubre el equipamiento de seguridad recomendado para motociclistas.</description>
+        </item>
+
+        <item>
+            <title>Contáctanos</title>
+            <link>http://www.tiendayamahayamaha.com#contactanos</link>
+            <description>Envíanos tus preguntas y comentarios.</description>
+        </item>
+    </channel>
+</rss>
